@@ -11,3 +11,33 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.Counter{
+    text-align: center;
+    background-color:rgba(255,255,255, 1);
+
+
+}
+#icono{
+    background-color: white;
+    border: none;
+}
+.fa-clock{
+    color: rgba(191,191,191, 1);
+    
+}
+.Counter div{
+    display: inline-block;
+    font-size: 80px;
+    line-height: 80px;
+    background-color: rgba(191,191,191, 1) ;
+    color: rgba(255,255,255, 1);
+    padding: 10px;
+    margin: 3px;
+    border-color:rgba(114,114,114, 1);
+    border-style: solid;
+    border-radius: 20px;
+    
+    
+
+}
+
